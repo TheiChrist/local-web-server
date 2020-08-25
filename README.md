@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lwsjs/local-web-server)
+
 [![view on npm](https://badgen.net/npm/v/local-web-server)](https://www.npmjs.org/package/local-web-server)
 [![npm module downloads](https://badgen.net/npm/dt/local-web-server)](https://www.npmjs.org/package/local-web-server)
 [![Gihub repo dependents](https://badgen.net/github/dependents-repo/lwsjs/local-web-server)](https://github.com/lwsjs/local-web-server/network/dependents?dependent_type=REPOSITORY)
